@@ -26,7 +26,19 @@
             "group": "Getting started",
             "pages": [
               "index",
-              "download-pegasus"
+              "download-pegasus",
+              "get-started",
+              "v-amsys-phoenix"
+            ]
+          },
+          {
+            "group": "Pilots Resources",
+            "pages": [
+              "ranks-and-transfers",
+              "events",
+              "awards",
+              "accepted-liveries",
+              "accepted-aircrafts"
             ]
           },
           {
