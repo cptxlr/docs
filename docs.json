@@ -38,7 +38,20 @@
               "events",
               "awards",
               "accepted-liveries",
-              "accepted-aircrafts"
+              "accepted-aircrafts",
+              "performance-calculators"
+            ]
+          },
+          {
+            "group": "Governance and Procedures",
+            "pages": [
+              "regulatory-overview-and-governance",
+              "safety-procedures",
+              "checklists",
+              "standard-operating-procedure",
+              "diversions",
+              "failures-and-emergency-procedures",
+              "bad-weather"
             ]
           },
           {
