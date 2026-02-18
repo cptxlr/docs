@@ -25,13 +25,20 @@
           {
             "group": "Getting started",
             "pages": [
-              "index"
+              "index",
+              "download-pegasus"
             ]
           },
           {
             "group": "Partners",
             "pages": [
               "partner-vas"
+            ]
+          },
+          {
+            "group": "Support",
+            "pages": [
+              "support"
             ]
           }
         ]
